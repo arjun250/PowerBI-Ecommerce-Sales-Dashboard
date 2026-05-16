@@ -13,38 +13,38 @@ The dashboard helps businesses gain valuable insights into revenue generation, p
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-- 📍 Interactive quarterly and state-wise filtering
-- 📈 KPI cards for:
-  - 💰 Total Sales Amount
-  - 🧾 Average Order Value (AOV)
-  - 📊 Total Profit
-  - 📦 Total Quantity Sold
-- 📅 Monthly profit trend analysis
-- 🛍️ Category-wise quantity distribution
-- 💳 Payment mode analysis
-- 👥 Customer-wise sales comparison
-- 🌍 State-wise sales performance
-- 📌 Sub-category profit analysis
+-  Interactive quarterly and state-wise filtering
+-  KPI cards for:
+  -  Total Sales Amount
+  -  Average Order Value (AOV)
+  -  Total Profit
+  -  Total Quantity Sold
+-  Monthly profit trend analysis
+-  Category-wise quantity distribution
+-  Payment mode analysis
+-  Customer-wise sales comparison
+-  State-wise sales performance
+-  Sub-category profit analysis
 
 ---
 
 # 📈 Business Insights
 
-## 💵 Sales Overview
-- 💰 Total Sales Amount reached **438K**
-- 🧾 Average Order Value (AOV) recorded at **121K**
-- 📊 Overall Profit generated was **37K**
-- 📦 Total Quantity Sold was **6K**
+##  Sales Overview
+-  Total Sales Amount reached **438K**
+-  Average Order Value (AOV) recorded at **121K**
+-  Overall Profit generated was **37K**
+-  Total Quantity Sold was **6K**
 
 ## 🛍️ Category Analysis
-- 👕 Clothing contributed the highest quantity sales
-- 💻 Electronics and 🪑 Furniture followed behind Clothing
+-  Clothing contributed the highest quantity sales
+-  Electronics and  Furniture followed behind Clothing
 
 ## 💳 Payment Analysis
-- 💵 COD (Cash on Delivery) was the most preferred payment mode
-- 📱 UPI and 💳 Debit/Credit Cards also contributed significantly
+-  COD (Cash on Delivery) was the most preferred payment mode
+-  UPI and  Debit/Credit Cards also contributed significantly
 
 ## 📅 Monthly Profit Trends
 - 🚀 Highest profit observed during **November**
@@ -54,12 +54,12 @@ The dashboard helps businesses gain valuable insights into revenue generation, p
   - September
   - December
 
-## 🌍 Regional Analysis
+##  Regional Analysis
 - 📍 Maharashtra generated the highest sales amount
 - 📍 Madhya Pradesh and Uttar Pradesh also contributed significantly
 
 ## 📦 Product Insights
-- 🖨️ Printers generated the highest profit among sub-categories
+-  Printers generated the highest profit among sub-categories
 - 📚 Bookcases and 👗 Sarees also showed strong performance
 
 ---
